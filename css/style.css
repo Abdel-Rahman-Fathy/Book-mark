@@ -1,0 +1,14 @@
+.book-mark{
+    background-image: url(../OIP.jpeg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+.title{
+    color:rgba(13,63,103,1);
+    font-family: serif;
+    font-weight: bold;
+}
+#btnform , #btnUpdate{
+    background-color: rgba(13,63,103,1);
+}
